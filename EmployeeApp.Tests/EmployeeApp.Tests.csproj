@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<IsPackable>false</IsPackable>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<!-- Project References -->
+	<ItemGroup>
+		<ProjectReference Include="..\EmployeeApp.Application\EmployeeApp.Application.csproj" />
+		<ProjectReference Include="..\EmployeeApp.Infrastructure\EmployeeApp.Infrastructure.csproj" />
+		<ProjectReference Include="..\EmployeeApp.Domain\EmployeeApp.Domain.csproj" />
+	</ItemGroup>
+
+	<!-- Test Frameworks and Mocks -->
+	<ItemGroup>
+		<PackageReference Include="xunit" Version="2.4.2" />
+		<PackageReference Include="xunit.runner.visualstudio" Version="2.4.5">
+			<PrivateAssets>all</PrivateAssets>
+		</PackageReference>
+		<PackageReference Include="Moq" Version="4.20.70" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.9.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.4" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Application.deps.json
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Application.runtimeconfig.json
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Application.dll
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Application.pdb
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Domain.dll
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Domain.pdb
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.AssemblyInfo.cs
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\Employee.5A67289D.Up2Date
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.dll
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\refint\EmployeeApp.Application.dll
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.pdb
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.genruntimeconfig.cache
+C:\Users\PC\Documents\Second\EmployeeApp\EmployeeApp.Application\obj\Debug\net8.0\ref\EmployeeApp.Application.dll
